@@ -251,10 +251,10 @@
 				DD22B9E01B94918C00BE7E17 /* AppDelegate.h */,
 				DD22B9E11B94918C00BE7E17 /* AppDelegate.m */,
 				DD22BA021B9491D800BE7E17 /* Controller */,
+				DD22BA7F1B9491D800BE7E17 /* View */,
 				DD22BA051B9491D800BE7E17 /* Controls */,
 				DD22BA0E1B9491D800BE7E17 /* Utility */,
 				DD22BA191B9491D800BE7E17 /* Vendor */,
-				DD22BA7F1B9491D800BE7E17 /* View */,
 				DD22B9DC1B94918C00BE7E17 /* Supporting Files */,
 			);
 			path = Project_Template;
@@ -872,6 +872,7 @@
 				DD22B9FE1B94918C00BE7E17 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DD22B9FF1B94918C00BE7E17 /* Build configuration list for PBXNativeTarget "Project_TemplateTests" */ = {
 			isa = XCConfigurationList;
@@ -880,6 +881,7 @@
 				DD22BA011B94918C00BE7E17 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
