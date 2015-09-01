@@ -1,0 +1,42 @@
+//
+//  Project_Template.pch
+//  Project_Template
+//
+//  Created by SamSol on 31/08/15.
+//  Copyright (c) 2015 SamSol. All rights reserved.
+//
+
+#ifndef Project_Template_Project_Template_pch
+#define Project_Template_Project_Template_pch
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+/*  Vender API  */
+
+#import "AFNetworking.h"
+#import "UIImageView+WebCache.h"
+#import "UIImage+Scale.h"
+#import "UIAlertView+Blocks.h"
+#import "KLCPopup.h"
+#import "MFSideMenu.h"
+#import "NSString+HTML.h"
+#import "SMXMLDocument.h"
+
+/*  Custom Controls */
+
+#import "AppDelegate.h"
+#import "BaseView.h"
+#import "BaseViewController.h"
+#import "BaseNavigationController.h"
+#import "LoadingView.h"
+
+/*  Utility API */
+
+#import "Constants.h"
+#import "AppUtility.h"
+#import "InterfaceUtility.h"
+#import "BaseLayout.h"
+#import "Reachability.h"
+
+#endif
