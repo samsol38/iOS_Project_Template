@@ -1,6 +1,6 @@
 //
 //  LoadingView.m
-//  GramGetter
+//  Project_Template
 //
 //  Created by WebMobTech-iMac on 14/04/15.
 //  Copyright (c) 2015 Webmob. All rights reserved.
